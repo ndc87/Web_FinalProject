@@ -335,6 +335,4 @@ Sau khi ứng dụng khởi động thành công, mở trình duyệt và truy c
 
 Đồ án Lập trình Web - Đại học Sư phạm Kỹ thuật TP.HCM
 
-**⭐ Nếu thấy dự án hữu ích, hãy cho một star nhé! ⭐**
-
 </div>
